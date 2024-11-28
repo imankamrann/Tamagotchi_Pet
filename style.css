@@ -1,0 +1,25 @@
+/* style.css */
+body {
+    background-color: #f9f9f9;
+    font-family: 'Press Start 2P', cursive; /* Apply pixelated font to the entire page */
+  }
+  
+  .card {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 2rem; /* Adjust font size for title */
+    font-family: 'Press Start 2P', cursive;
+  }
+  
+  button {
+    font-family: 'Press Start 2P', cursive; /* Apply pixelated font to buttons */
+    font-size: 1rem;
+  }
+  
+  #status, #errorMessage {
+    font-family: 'Press Start 2P', cursive; /* Apply pixelated font to status text */
+  }
+
